@@ -12,7 +12,7 @@ Summary: use ipv6 to access google  google scholar
 
 修改hosts方法很多，网上一搜一大把，简单来说：
 
-* windows： 在C盘->window->System32->driver->etc 下面，有的电脑不能直接打开编辑，可以先把hosts拷贝到桌面，编译完拷贝回来。
+* windows： 在C盘->window->System32->driver->etc 下面，有的电脑不能直接打开编辑，可以先把hosts拷贝到桌面，编辑完再拷贝回来。
 
 * MAC： 比较简单 ,terminal 里面 sudo vim /etc/hosts 就可以了。
 
