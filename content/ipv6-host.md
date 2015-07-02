@@ -21,7 +21,7 @@ Summary: use ipv6 to access google  google scholar
 2607:f8b0:4007:804::1002 scholar.google.com
 <code></pre>
 
-hosts其实一直在变，感谢lennylxx@github的工作，这是目前我能看到的最新的,scholar亲测可以。原文太长了，我摘录其中了一段：https://github.com/lennylxx/ipv6-hosts/blob/master/snippets/01_google.txt
+hosts其实一直在变，感谢[lennylxx@github](https://github.com/lennylxx/ipv6-hosts/blob/master/snippets/01_google.txt "点我点我")的工作，这是目前我能看到的最新的,scholar亲测可以。原文太长了，我摘录其中了一段.
 
 
 ########分割线，下面区块都是可以直接拷贝的#######
