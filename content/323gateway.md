@@ -1,4 +1,4 @@
-Title: how to do a great research
+Title: vpn client and server on same machine
 Date: 2015-09-21
 Category: technology
 Tags:
@@ -58,6 +58,21 @@ mkdir client
 cd client
 # get crt from my remote vps
 
+client
+dev tun
+proto udp
+remote 166.111.68.22 8080
+resolv-retry infinite
+nobind
+persist-key
+persist-tun
+ca ./keys/ca.crt
+cert ./keys/user1.crt
+key ./keys/user1.key
+ns-cert-type server
+comp-lzo
+cipher AES-128-CBC
+verb 3
 ######################## how to connect openvpn client and openvpn server at the smae machine #########
 
 TBC
