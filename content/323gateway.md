@@ -6,7 +6,15 @@ Slug:
 Author:
 Summary: 
 
-some ref [iptable](http://www.111cn.net/sys/linux/53011.htm)  [之前openvpn的nat规则不好使，配置了pptp之后，反而策略路由好使了,而且这个教程完整的在ubuntu上搭建pptp](http://blog.chinaunix.net/uid-7944836-id-3247311.html) [ufw 设置nat，仅作参考，这个ref好像有点问题](http://rainbird.blog.51cto.com/211214/394403/) [openvpn server 和 client 在同一台机器上转发规则， 仅供参考](http://unix.stackexchange.com/questions/205347/forward-vpn-traffic-to-another-vpn-server)
+some ref 
+[iptable](http://www.111cn.net/sys/linux/53011.htm)  
+
+[之前openvpn的nat规则不好使，配置了pptp之后，反而策略路由好使了,而且这个教程完整的在ubuntu上搭建pptp](http://blog.chinaunix.net/uid-7944836-id-3247311.html) 
+
+[ufw 设置nat，仅作参考，这个ref好像有点问题](http://rainbird.blog.51cto.com/211214/394403/) 
+
+
+[openvpn server 和 client 在同一台机器上转发规则， 仅供参考](http://unix.stackexchange.com/questions/205347/forward-vpn-traffic-to-another-vpn-server)
 ##############################config openvpn server ###########################
 
 install openvpn, unzib
